@@ -1,0 +1,3 @@
+/home/leonardo/CLionProjects/Classical_Logic/cmake-build-debug/CMakeFiles/Classical_Logic.dir
+/home/leonardo/CLionProjects/Classical_Logic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/leonardo/CLionProjects/Classical_Logic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
